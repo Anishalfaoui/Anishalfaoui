@@ -122,9 +122,9 @@ Algorithmique · Architecture logicielle · Conception de logiciels fiables
 
 ## 📈 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anis-halfaoui\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anis-halfaoui\&layout=compact\&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=anis-halfaoui\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anishalfaoui\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anishalfaoui\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anishalfaoui\&theme=tokyonight)
 
 ---
 
